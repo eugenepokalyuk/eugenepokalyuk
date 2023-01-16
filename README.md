@@ -1,5 +1,4 @@
-# Wabsite
-- 👋 Hi, I’m @eugenepokalyuk
+# 👋 Hi, I’m @eugenepokalyuk
 - ✨ I’m interested and currently learning in JavaScript
 - 👀 [Website with my portfolio](https://eugenepokalyuk.github.io/profile-new/)
 
