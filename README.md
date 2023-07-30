@@ -16,4 +16,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50">
 </a>
 
-### 👀 [Сайт-портфолио](https://eugenepokalyuk.github.io/profile-new/)
+<a href="eugene.pokalyuk@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50">
+</a>
+
+## 👀 [Сайт-портфолио](https://eugenepokalyuk.github.io/profile-new/)
