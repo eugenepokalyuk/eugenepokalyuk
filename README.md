@@ -1,5 +1,16 @@
 # 👋 Привет! Меня зовут Евгений. Я занимаюсь фронтенд разработкой
 
+<h3 align="center">Связаться со мной:</h3>
+<section align="center">
+  <a href="https://t.me/PaperCranejs" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" align="center" alt="telegram icon" width="30" height="40">
+  </a>
+  
+  <a href="eugene.pokalyuk@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" align="center" alt="gmail icon" width="30" height="40">
+  </a>
+</section>
+
 ## Языки программирования и разметки
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ## Фреймворки и библиотеки
@@ -9,13 +20,6 @@
 ## Программное обеспечение и инструменты
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,bash,replit,postman)](https://skillicons.dev)
 
-## Как связаться со мной:
-<a href="https://t.me/PaperCranejs">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50">
-</a>
 
-<a href="eugene.pokalyuk@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50">
-</a>
 
 ### Чтобы просомтреть сайт-портфолио можете перейти по [ссылке](https://eugenepokalyuk.github.io/profile-new/)
