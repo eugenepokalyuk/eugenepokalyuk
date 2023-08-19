@@ -23,7 +23,6 @@
 <a href="https://htmlacademy.ru/profile/eugenepokalyuk">
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/logo-white-3.png?raw=true" width="48" height="48" />
 </a>
-
 <a href="https://htmlacademy.ru/profile/eugenepokalyuk">
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/logo-white-3.png?raw=true" width="48" height="48" />
 </a>
