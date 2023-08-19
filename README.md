@@ -14,11 +14,11 @@
 
 ## 👀 [Сайт-портфолио](https://eugenepokalyuk.github.io/profile-new/)
 
-Programming and Markup Languages
+## Programming and Markup Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-Frameworks and Libraries
+## Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,redux,express,d3,materialui,bootstrap)](https://skillicons.dev)
-Databases
+## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-Software and Tools
+## Software and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,bash,replit,postman)](https://skillicons.dev)
