@@ -5,7 +5,7 @@
 ## Фреймворки и библиотеки
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,redux,express,d3,materialui,bootstrap)](https://skillicons.dev)
 ## Базы данных
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
 ## Программное обеспечение и инструменты
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,bash,replit,postman)](https://skillicons.dev)
 
