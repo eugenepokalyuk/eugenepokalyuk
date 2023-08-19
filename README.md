@@ -1,21 +1,19 @@
 # 👋 Привет! Меня зовут Евгений. Я занимаюсь фронтенд разработкой
 
 <details open>
+    <summary><h2>🛠 Hard skills </h2></summary>
     <h3>👨‍💻 Языки программирования и разметки</h3>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,html,css" />
     </a>
-
     <h3>🧰 Фреймворки и библиотеки</h3>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,redux,ts,nodejs,express,d3,materialui,bootstrap" />
     </a>
-    
     <h3>🗄️ Базы данных</h3>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
     </a>
-
     <h3>💻 Программное обеспечение и инструменты</h3>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,bash,replit,postman" />
