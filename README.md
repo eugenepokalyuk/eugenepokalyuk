@@ -23,7 +23,7 @@
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/html-academy-logo.png?raw=true" width="48" height="48" />
 </a>
 <a href="https://www.freecodecamp.org/eugene.pokalyuk">
-    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/freecodecamp-logo.png?raw=true" width="48" height="48" />
+    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/free-code-camp-logo.png?raw=true" width="48" height="48" />
 </a>
 
 ### Чтобы просомтреть сайт-портфолио можете перейти по [ссылке](https://eugenepokalyuk.github.io/profile-new/)
