@@ -35,6 +35,6 @@
   </a>
   
   <a href="eugene.pokalyuk@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" align="center" alt="gmail icon" width="48" height="48">
+    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/mail-logo.png?raw=true" align="center" alt="gmail icon" width="48" height="48">
   </a>
 </section>
