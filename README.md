@@ -17,6 +17,13 @@
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,bash,replit,postman" />
 </a>
 
+
+## Профили в онлайн курсах
+<h3>HTML Academy</h3>
+<a href="https://htmlacademy.ru/profile/eugenepokalyuk">
+    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/logo-white-3.png?raw=true" width="48" height="48" />
+</a>
+
 ### Чтобы просомтреть сайт-портфолио можете перейти по [ссылке](https://eugenepokalyuk.github.io/profile-new/)
 
 <h3 align="center">Связаться со мной:</h3>
