@@ -20,7 +20,7 @@
 
 <h3>👨‍🎓 Онлайн курсы</h3>
 <a href="https://htmlacademy.ru/profile/eugenepokalyuk">
-    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/logo-white-3.png?raw=true" width="48" height="48" />
+    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/html-academy-logo.png?raw=true" width="48" height="48" />
 </a>
 <a href="https://www.freecodecamp.org/eugene.pokalyuk">
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/fcc_primary_small.jpg?raw=true" width="48" height="48" />
