@@ -31,7 +31,7 @@
 <h3 align="center">Связаться со мной:</h3>
 <section align="center">
   <a href="https://t.me/PaperCranejs" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" align="center" alt="telegram icon" width="48" height="48">
+    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/telegram-logo.png?raw=true" align="center" alt="telegram icon" width="48" height="48">
   </a>
   
   <a href="eugene.pokalyuk@gmail.com" target="_blank">
