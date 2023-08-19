@@ -3,7 +3,7 @@
 ## Языки программирования и разметки
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ## Фреймворки и библиотеки
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,redux,express,d3,materialui,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,ts,nodejs,express,d3,materialui,bootstrap)](https://skillicons.dev)
 ## Базы данных
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
 ## Программное обеспечение и инструменты
