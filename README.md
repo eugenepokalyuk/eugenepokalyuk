@@ -18,4 +18,4 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50">
 </a>
 
-## 👀 [Сайт-портфолио](https://eugenepokalyuk.github.io/profile-new/)
+### Чтобы просомтреть сайт-портфолио можете перейти по [ссылке](https://eugenepokalyuk.github.io/profile-new/)
