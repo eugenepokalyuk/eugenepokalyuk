@@ -28,13 +28,13 @@
 
 ### Чтобы просомтреть сайт-портфолио можете перейти по [ссылке](https://eugenepokalyuk.github.io/profile-new/)
 
-<h3 align="center">Связаться со мной:</h3>
-<section align="center">
+<h3>Связаться со мной:</h3>
+<section>
   <a href="https://t.me/PaperCranejs" target="_blank">
-    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/telegram-logo.png?raw=true" align="center" alt="telegram icon" width="48" height="48">
+    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/telegram-logo.png?raw=true" alt="telegram icon" width="48" height="48">
   </a>
   
   <a href="eugene.pokalyuk@gmail.com" target="_blank">
-    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/mail-logo.png?raw=true" align="center" alt="gmail icon" width="48" height="48">
+    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/mail-logo.png?raw=true" alt="gmail icon" width="48" height="48">
   </a>
 </section>
