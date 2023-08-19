@@ -18,7 +18,7 @@
 </a>
 
 
-<h3>Профили в онлайн курсах</h3>
+<h3>👨‍🎓 Онлайн курсы</h3>
 <a href="https://htmlacademy.ru/profile/eugenepokalyuk">
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/logo-white-3.png?raw=true" width="48" height="48" />
 </a>
