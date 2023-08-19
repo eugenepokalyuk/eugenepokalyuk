@@ -1,13 +1,26 @@
 # 👋 Привет! Меня зовут Евгений. Я занимаюсь фронтенд разработкой
 
-## Языки программирования и разметки
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-## Фреймворки и библиотеки
-[![My Skills](https://skillicons.dev/icons?i=react,redux,ts,nodejs,express,d3,materialui,bootstrap)](https://skillicons.dev)
-## Базы данных
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
-## Программное обеспечение и инструменты
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,bash,replit,postman)](https://skillicons.dev)
+<details open>
+    <h3>👨‍💻 Языки программирования и разметки</h3>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css" />
+    </a>
+
+    <h3>🧰 Фреймворки и библиотеки</h3>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,redux,ts,nodejs,express,d3,materialui,bootstrap" />
+    </a>
+    
+    <h3>🗄️ Базы данных</h3>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+    </a>
+
+    <h3>💻 Программное обеспечение и инструменты</h3>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,bash,replit,postman" />
+    </a>
+</details>
 
 ### Чтобы просомтреть сайт-портфолио можете перейти по [ссылке](https://eugenepokalyuk.github.io/profile-new/)
 
