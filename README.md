@@ -1,12 +1,12 @@
 # 👋 Привет! Меня зовут Евгений. Я занимаюсь фронтенд разработкой
 
-## Programming and Markup Languages
+## Языки программирования и разметки
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-## Frameworks and Libraries
+## Фреймворки и библиотеки
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,redux,express,d3,materialui,bootstrap)](https://skillicons.dev)
-## Databases
+## Базы данных
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-## Software and Tools
+## Программное обеспечение и инструменты
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,bash,replit,postman)](https://skillicons.dev)
 
 ## Как связаться со мной:
