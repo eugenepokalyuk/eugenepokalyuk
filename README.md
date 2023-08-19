@@ -18,13 +18,12 @@
 </a>
 
 
-## Профили в онлайн курсах
-<h3>HTML Academy</h3>
+<h3>Профили в онлайн курсах</h3>
 <a href="https://htmlacademy.ru/profile/eugenepokalyuk">
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/logo-white-3.png?raw=true" width="48" height="48" />
 </a>
-<a href="https://htmlacademy.ru/profile/eugenepokalyuk">
-    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/logo-white-3.png?raw=true" width="48" height="48" />
+<a href="https://www.freecodecamp.org/eugene.pokalyuk">
+    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/fcc_primary_small.jpg?raw=true" width="48" height="48" />
 </a>
 
 ### Чтобы просомтреть сайт-портфолио можете перейти по [ссылке](https://eugenepokalyuk.github.io/profile-new/)
