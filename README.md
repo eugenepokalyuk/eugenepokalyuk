@@ -6,7 +6,10 @@
 </a>
 <h3>🧰 Фреймворки и библиотеки</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,nodejs,express,d3,materialui,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,nodejs,express" />
+</a>
+<a>
+    <img src="https://skillicons.dev/icons?i=d3,materialui,bootstrap" />
 </a>
 <h3>🗄️ Базы данных</h3>
 <a href="https://skillicons.dev">
