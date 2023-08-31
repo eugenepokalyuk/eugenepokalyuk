@@ -10,7 +10,7 @@
 </a>
 <h3>🗄️ Базы данных</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
 </a>
 <h3>💻 Программное обеспечение и инструменты</h3>
 <a href="https://skillicons.dev">
