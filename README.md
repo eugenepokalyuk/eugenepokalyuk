@@ -29,7 +29,7 @@
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/free-code-camp-logo.png?raw=true" width="48" height="48" />
 </a>
 
-### Чтобы просомтреть сайт-портфолио можете перейти по [ссылке](https://eugenepokalyuk.github.io/profile-new/)
+### [Сайт-портфолио](https://eugenepokalyuk.github.io/profile-new/)
 
 <h3>Связаться со мной:</h3>
 <section>
