@@ -1,4 +1,4 @@
-# 👋 Hi! My name is Eugene. I do frontend development
+# 👋 Hi! My name is Eugene. Frontend developer
 
 <h3>👨‍💻 Programming and markup languages</h3>
 <a href="https://skillicons.dev">
