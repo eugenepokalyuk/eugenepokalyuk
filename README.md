@@ -6,18 +6,22 @@
 </a>
 <h3>🧰 Frameworks and libraries</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,vite" />
+</a>
+<h3>🦑 Backend</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </a>
 <a>
-    <img src="https://skillicons.dev/icons?i=d3,materialui,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
 </a>
 <h3>🗄️ Databases</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql" />
 </a>
 <h3>💻 Software and tools</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,bash,replit,postman" />
+    <img src="https://skillicons.dev/icons?i=git,figma,replit,postman" />
 </a>
 
 
