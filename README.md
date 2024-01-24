@@ -8,12 +8,12 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,ts,vite" />
 </a>
+<a>
+    <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
+</a>
 <h3>🦑 Backend</h3>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</a>
-<a>
-    <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
 </a>
 <h3>🗄️ Databases</h3>
 <a href="https://skillicons.dev">
