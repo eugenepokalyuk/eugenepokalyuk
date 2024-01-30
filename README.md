@@ -33,7 +33,7 @@
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/free-code-camp-logo.png?raw=true" width="48" height="48" />
 </a>
 
-### [Portfolio](https://eugenepokalyuk.github.io/profile-new/)
+### [Portfolio](https://eugenepokalyuk.github.io/react-about/)
 
 <h3>Contact me:</h3>
 <section>
