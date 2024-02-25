@@ -6,7 +6,8 @@
 </a>
 <h3>🧰 Frameworks and libraries</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,vite" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,vite,astro,next,gulp" />
+    
 </a>
 <a>
     <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
