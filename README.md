@@ -10,7 +10,7 @@
     
 </a>
 <a>
-    <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=tailwind,materialui" />
 </a>
 <h3>🦑 Backend</h3>
 <a href="https://skillicons.dev">
