@@ -1,35 +1,61 @@
 # 👋 Hi! My name is Eugene. Frontend developer
 
-<h3>👨‍💻 Programming and markup languages</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
-</a>
-<h3>🧰 Frameworks and libraries</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,vite,astro,next,gulp" />
-    
-</a>
-<a>
-    <img src="https://skillicons.dev/icons?i=tailwind,materialui" />
-</a>
+<h3>👨‍💻 Programming and Markup Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+<h3>🧠 Logic Frameworks and Libraries</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,vite,next,astro,vue,gulp" />
+</p>
+
+<h3>🎨 UI Frameworks and Libraries</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=sass,tailwind,materialui" />
+</p>
+
+<h3>🛠️ Build Tools and Package Managers</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=yarn,npm,webpack" />
+</p>
+
 <h3>🦑 Backend</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
 <h3>🗄️ Databases</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql" />
-</a>
-<h3>💻 Software and tools</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,replit,postman" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql" />
+</p>
+
+<h3>🌐 Hosting and Deployment</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,gitlab,github" />
+</p>
+
+<h3>⚙️ Development Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,webstorm,postman,figma,replit" />
+</p>
+
+<h3>🎨 Design and Prototyping</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=webflow,notion,miro" />
+</p>
+
+<h3>🧩 Others</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,raspberrypi" />
+</p>
 
 
 <h3>👨‍🎓 Online courses</h3>
 <a href="https://htmlacademy.ru/profile/eugenepokalyuk">
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/html-academy-logo.png?raw=true" width="48" height="48" />
 </a>
+
 <a href="https://www.freecodecamp.org/eugene.pokalyuk">
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/free-code-camp-logo.png?raw=true" width="48" height="48" />
 </a>
