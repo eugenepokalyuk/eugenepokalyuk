@@ -38,7 +38,7 @@
 
 <h3>Contact me:</h3>
 <section>
-  <a href="https://t.me/PaperCranejs" target="_blank">
+  <a href="https://t.me/wazzupjohnny" target="_blank">
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/telegram-logo.png?raw=true" alt="telegram icon" width="48" height="48">
   </a>
   
