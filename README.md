@@ -5,14 +5,14 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
 
-<h3>🧠 Logic Frameworks and Libraries</h3>
+<h3>🧠 Frameworks and Libraries</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,vite,next,astro,vue,gulp" />
+  <img src="https://skillicons.dev/icons?i=react,redux,vite" />
 </p>
 
 <h3>🎨 UI Frameworks and Libraries</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=sass,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=sass,materialui,tailwind" />
 </p>
 
 <h3>🛠️ Build Tools and Package Managers</h3>
@@ -42,7 +42,7 @@
 
 <h3>🎨 Design and Prototyping</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=webflow,notion,miro" />
+  <img src="https://skillicons.dev/icons?i=figma,notion,miro,webflow" />
 </p>
 
 <h3>🧩 Others</h3>
