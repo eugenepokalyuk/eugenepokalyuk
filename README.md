@@ -7,7 +7,7 @@
 
 <h3>🧠 Frameworks and Libraries</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,vite" />
+  <img src="https://skillicons.dev/icons?i=react,next,redux,vite" />
 </p>
 
 <h3>🎨 UI Frameworks and Libraries</h3>
