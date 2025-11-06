@@ -42,7 +42,7 @@
 
 <h3>🎨 Design and Prototyping</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,notion,miro,webflow" />
+  <img src="https://skillicons.dev/icons?i=figma,notion,webflow,miro" />
 </p>
 
 <h3>🧩 Others</h3>
