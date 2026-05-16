@@ -60,7 +60,7 @@
     <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/free-code-camp-logo.png?raw=true" width="48" height="48" />
 </a>
 
-### [Portfolio](https://eugenepokalyuk.github.io/react-about/)
+### [Portfolio](https://wazzupjohnny.ru/)
 
 <h3>Contact me:</h3>
 <section>
