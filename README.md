@@ -20,11 +20,6 @@
   <img src="https://skillicons.dev/icons?i=yarn,npm,webpack,vite" />
 </p>
 
-<h3>🦑 Backend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
 <h3>🌐 Hosting and Deployment</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,gitlab,github" />
@@ -35,17 +30,12 @@
   <img src="https://skillicons.dev/icons?i=webstorm,postman,figma,miro" />
 </p>
 
+<h3>🦑 Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<h3>👨‍🎓 Online courses</h3>
-<a href="https://htmlacademy.ru/profile/eugenepokalyuk">
-    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/html-academy-logo.png?raw=true" width="48" height="48" />
-</a>
-
-<a href="https://www.freecodecamp.org/eugene.pokalyuk">
-    <img src="https://github.com/eugenepokalyuk/eugenepokalyuk/blob/main/free-code-camp-logo.png?raw=true" width="48" height="48" />
-</a>
-
-### [Portfolio](https://wazzupjohnny.ru/)
+### [About me](https://wazzupjohnny.ru/)
 
 <h3>Contact me:</h3>
 <section>
