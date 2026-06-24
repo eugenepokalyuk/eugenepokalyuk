@@ -7,7 +7,7 @@
 
 <h3>🧠 Frameworks and Libraries</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,redux,vite" />
+  <img src="https://skillicons.dev/icons?i=react,next,redux" />
 </p>
 
 <h3>🎨 UI Frameworks and Libraries</h3>
@@ -17,7 +17,7 @@
 
 <h3>🛠️ Build Tools and Package Managers</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=yarn,npm,webpack" />
+  <img src="https://skillicons.dev/icons?i=yarn,npm,webpack,vite" />
 </p>
 
 <h3>🦑 Backend</h3>
@@ -25,29 +25,14 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<h3>🗄️ Databases</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql" />
-</p>
-
 <h3>🌐 Hosting and Deployment</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,gitlab,github" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github" />
 </p>
 
 <h3>⚙️ Development Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,webstorm,postman,figma,replit" />
-</p>
-
-<h3>🎨 Design and Prototyping</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,notion,webflow,miro" />
-</p>
-
-<h3>🧩 Others</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=webstorm,postman,figma,miro" />
 </p>
 
 
